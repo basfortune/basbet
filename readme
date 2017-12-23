@@ -1,7 +1,12 @@
 Create application where you could analyze football stats and bets
 
-
 Add something to test Stash Git Feature
 
+Features:
+--------
 
-Its like the file looks like after git checkout to previous version
+1) Statistics
+
+2) Bookmaker's coefficients
+
+3) Predictions
