@@ -1,0 +1,2 @@
+Work on machine AI(artificial inteligence) who is able read stats and bets, and then give
+the suggestion/recommendation about an actual bet. 

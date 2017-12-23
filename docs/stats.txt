@@ -1,0 +1,2 @@
+In this file I will describe all tech features for getting/fetching and storing statistics 
+from Football Match.
